@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "edf",
+      "email": "srg",
+      "id": 1
+    },
+    {
+      "name": "person1",
+      "email": "person1@mail.com",
+      "id": 3
+    },
+    {
+      "name": "person12",
+      "email": "person1@mail.com",
+      "id": 4
+    },
+    {
+      "name": "Anurag",
+      "email": "anuragsingh2445@gmail.com",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "p2",
+      "email": "p@mail.com",
+      "id": 7
+    }
+  ]
+}
