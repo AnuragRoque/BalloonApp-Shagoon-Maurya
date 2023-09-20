@@ -60,4 +60,4 @@ expo start
 
 
 ## Author
-@AnuragRoque
+[@AnuragRoque](https://github.com/AnuragRoque)
