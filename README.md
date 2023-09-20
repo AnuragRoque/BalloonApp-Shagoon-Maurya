@@ -34,10 +34,10 @@ npm run server
 
 This will start the JSON server for data storage
 
-### 2.To Start Application
+### 2.To Start Application (Web Browser)
 
 ```bash
-npm start
+expo start --web
 ```
 
 This will start the Expo development server for the web platform.
