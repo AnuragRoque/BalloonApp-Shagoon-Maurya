@@ -16,7 +16,7 @@ Before you begin, ensure you have the following dependencies installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/AnuragRoque/BalloonApp-Shagoon-Maurya
 cd BalloonApp
 
 ```
