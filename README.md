@@ -59,4 +59,5 @@ expo start
 ```
 
 
-## Created by Anurag Singh
+## Author
+@AnuragRoque
